@@ -1,15 +1,38 @@
 fileFormatVersion: 2
 guid: fcf28bf47c958994f88d2319999ca5f8
-timeCreated: 1450157534
+timeCreated: 1450170743
 licenseType: Pro
 ModelImporter:
   serializedVersion: 19
   fileIDToRecycleName:
     100000: //RootNode
+    100002: Camera
+    100004: KoroSenseiEyeLeft
+    100006: KoroSenseiEyeRight
+    100008: KoroSenseiHead
+    100010: KoroSenseiMouth
+    100012: Lamp
     400000: //RootNode
+    400002: Camera
+    400004: KoroSenseiEyeLeft
+    400006: KoroSenseiEyeRight
+    400008: KoroSenseiHead
+    400010: KoroSenseiMouth
+    400012: Lamp
     2300000: //RootNode
+    2300002: KoroSenseiEyeLeft
+    2300004: KoroSenseiEyeRight
+    2300006: KoroSenseiHead
+    2300008: KoroSenseiMouth
     3300000: //RootNode
+    3300002: KoroSenseiEyeLeft
+    3300004: KoroSenseiEyeRight
+    3300006: KoroSenseiHead
+    3300008: KoroSenseiMouth
     4300000: KoroSenseiHead
+    4300002: KoroSenseiMouth
+    4300004: KoroSenseiEyeLeft
+    4300006: KoroSenseiEyeRight
   materials:
     importMaterials: 1
     materialName: 0
